@@ -1,4 +1,5 @@
 # Multiple-Memory-Designs-and-UVM-coverage-based-Verification
+Multiple Memory Simulataneous Testing with uvm + functional coverage + constrained randomization - For Reference purposes
 /*///////////////////////////////////////////////////////////////////
 ////                                                             ////
 ////  Author: Sumira Fernando                                    ////
@@ -26,7 +27,6 @@
 ////                                                             ////
 ///////////////////////////////////////////////////////////////////*/
 
-Multiple Memory Simulataneous Testing with uvm + functional coverage + constrained randomization - For Reference purposes
   supported
       Two memory designs : 
 		- CAM Memory  : This includes regular sorting mechanism of internal address array. Reduce address search latency
