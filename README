@@ -53,7 +53,7 @@ Multiple Memory Simulataneous Testing with uvm + functional coverage + constrain
 How to run:
 
 1. set up your test env
-  1.1 Make sure to install simulator and gtkwave is installed or change the Makefile and filelist options according to the simulator requirement
+  1.1 Make sure to install simulator and gtkwave or change the Makefile and filelist options according to the simulator requirement
 
   1.2 Go to run folder and execute any make target after clean
 
